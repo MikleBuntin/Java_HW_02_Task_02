@@ -40,6 +40,7 @@ public class Main {
                     flag = true;
                 }
             }
+//            Записать в лог-файл очередной результат сортировки.
         }
         System.out.print("Sorted array: [");
         for (int i = 0; i < arr_len; i++) {
