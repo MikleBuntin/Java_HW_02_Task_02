@@ -1,0 +1,40 @@
+дек. 16, 2022 11:07:52 PM org.example.Ex005_Logger main
+INFO: Program starting
+дек. 16, 2022 11:08:04 PM org.example.Ex005_Logger main
+INFO: Получили число - размер массива = 12
+дек. 16, 2022 11:08:04 PM org.example.Ex005_Logger main
+INFO: Создали массив заданного размера
+дек. 16, 2022 11:08:04 PM org.example.Ex005_Logger main
+INFO: Заполнили массив случайными данными
+дек. 16, 2022 11:08:04 PM org.example.Ex005_Logger main
+INFO: Вывели неотсортированный массив в консоль
+дек. 16, 2022 11:08:04 PM org.example.Ex005_Logger main
+INFO: Start array sorting
+дек. 16, 2022 11:08:04 PM org.example.Ex005_Logger main
+INFO: Сортировка массива: 
+дек. 16, 2022 11:08:04 PM org.example.Ex005_Logger main
+INFO: Сортировка массива: 
+дек. 16, 2022 11:08:04 PM org.example.Ex005_Logger main
+INFO: Сортировка массива: 
+дек. 16, 2022 11:08:04 PM org.example.Ex005_Logger main
+INFO: Сортировка массива: 
+дек. 16, 2022 11:08:04 PM org.example.Ex005_Logger main
+INFO: Сортировка массива: 
+дек. 16, 2022 11:08:04 PM org.example.Ex005_Logger main
+INFO: Сортировка массива: 
+дек. 16, 2022 11:08:04 PM org.example.Ex005_Logger main
+INFO: Сортировка массива: 
+дек. 16, 2022 11:08:04 PM org.example.Ex005_Logger main
+INFO: Сортировка массива: 
+дек. 16, 2022 11:08:04 PM org.example.Ex005_Logger main
+INFO: Сортировка массива: 
+дек. 16, 2022 11:08:04 PM org.example.Ex005_Logger main
+INFO: Сортировка массива: 
+дек. 16, 2022 11:08:04 PM org.example.Ex005_Logger main
+INFO: Сортировка массива: 
+дек. 16, 2022 11:08:04 PM org.example.Ex005_Logger main
+INFO: Сортировка массива: 
+дек. 16, 2022 11:08:04 PM org.example.Ex005_Logger main
+INFO: Сортировка массива окончена.
+дек. 16, 2022 11:08:04 PM org.example.Ex005_Logger main
+INFO: Вывели массив в консоль: 
